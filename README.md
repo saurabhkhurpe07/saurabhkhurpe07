@@ -6,10 +6,10 @@
 
 💞️ I’m looking to collaborate on quarkus open source library.
 
-📫 Drop me an email at khurpe.saurabh@kobie.com
+📫 Drop me an email at khurpe.saurabh@kobie.com.
 
 😄 Pronouns: You/He.
 
 ⚡ Fun fact: I’m udemy certified Java Developer.
 
-Please click on the link to visit my personal github profile https://github.com/saurabhkhurpe
+Please click on the link to visit my personal github profile https://github.com/saurabhkhurpe.
